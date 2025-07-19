@@ -28,7 +28,7 @@ Enter your own Sudoku puzzle, or use the provided defaults. The solver uses a ba
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/YOUR-USERNAME/sudoku-solver-python.git
+    git clone https://github.com/jaredevans/sudoku-solver-python.git
     cd sudoku-solver-python
     ```
 
