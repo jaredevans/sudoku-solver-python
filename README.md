@@ -90,22 +90,9 @@ The program will print the original and solved grids, and the number of attempts
 
 ---
 
-## Sample Puzzles
+## Sample Puzzle
 
-Paste one of these when prompted for rows:
-
-- **Normal:**  
-  ```
-  306508400
-  520000000
-  087000031
-  003010080
-  900863005
-  050090600
-  130000250
-  000000074
-  005206300
-  ```
+Paste this puzzle when prompted for rows:
 
 - **Hard:**  
   ```
